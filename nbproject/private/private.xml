@@ -3,15 +3,17 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Master/Dropbox/NetBeans%20Projects/0%20Patterns/ProxyPattern/src/proxypattern/State.java</file>
-            <file>file:/C:/Users/Master/Dropbox/NetBeans%20Projects/0%20Patterns/ProxyPattern/src/proxypattern/HasQuarterState.java</file>
             <file>file:/C:/Users/Master/Dropbox/NetBeans%20Projects/0%20Patterns/ProxyPattern/src/proxypattern/GumballMonitor.java</file>
+            <file>file:/C:/Users/Master/Dropbox/NetBeans%20Projects/0%20Patterns/ProxyPattern/src/proxypattern/WinnerState.java</file>
             <file>file:/C:/Users/Master/Dropbox/NetBeans%20Projects/0%20Patterns/ProxyPattern/src/proxypattern/SoldOutState.java</file>
             <file>file:/C:/Users/Master/Dropbox/NetBeans%20Projects/0%20Patterns/ProxyPattern/src/proxypattern/SoldState.java</file>
+            <file>file:/C:/Users/Master/Dropbox/NetBeans%20Projects/0%20Patterns/ProxyPattern/src/proxypattern/State.java</file>
             <file>file:/C:/Users/Master/Dropbox/NetBeans%20Projects/0%20Patterns/ProxyPattern/src/proxypattern/GumBallMachine.java</file>
-            <file>file:/C:/Users/Master/Dropbox/NetBeans%20Projects/0%20Patterns/ProxyPattern/src/proxypattern/WinnerState.java</file>
-            <file>file:/C:/Users/Master/Dropbox/NetBeans%20Projects/0%20Patterns/ProxyPattern/src/proxypattern/NoQuarterState.java</file>
+            <file>file:/C:/Users/Master/Dropbox/NetBeans%20Projects/0%20Patterns/ProxyPattern/src/proxypattern/UnknownState.java</file>
             <file>file:/C:/Users/Master/Dropbox/NetBeans%20Projects/0%20Patterns/ProxyPattern/src/proxypattern/ProxyPattern.java</file>
+            <file>file:/C:/Users/Master/Dropbox/NetBeans%20Projects/0%20Patterns/ProxyPattern/src/proxypattern/NoQuarterState.java</file>
+            <file>file:/C:/Users/Master/Dropbox/NetBeans%20Projects/0%20Patterns/ProxyPattern/src/proxypattern/ProxyClass.java</file>
+            <file>file:/C:/Users/Master/Dropbox/NetBeans%20Projects/0%20Patterns/ProxyPattern/src/proxypattern/HasQuarterState.java</file>
         </group>
     </open-files>
 </project-private>
